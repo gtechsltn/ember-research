@@ -116,6 +116,10 @@ https://emberjs.com/learn/
 ### Ember Guides
 https://guides.emberjs.com
 
+## Ember API (HAY HAY HAY)
++ https://api.emberjs.com/ember/
++ https://api.emberjs.com/ember/5.4
+
 ### Ember Screencasts
 https://www.emberscreencasts.com/
 
