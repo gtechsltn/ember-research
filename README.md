@@ -102,7 +102,13 @@ https://cli.emberjs.com/release/
 https://www.emberobserver.com/
 
 ### Guides Ember v2.9.0
-https://guides.emberjs.com/v2.9.0/
++ https://guides.emberjs.com/v2.9.0/
+
+### Build Ember Components
++ https://ember-guides-staging.firebaseapp.com/v2.8.0/tutorial/simple-component/
++ https://guides.emberjs.com/v2.14.0/tutorial/simple-component/
++ https://guides.emberjs.com/v5.4.0/components/
++ https://guides.emberjs.com/release/components/
 
 ### Ember Learn
 https://emberjs.com/learn/
