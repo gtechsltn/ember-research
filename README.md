@@ -63,7 +63,8 @@ ember install ember-cli-bootstrap-4
 }
 ```
 
-### Font Awesome 5 Ember component using SVG with JS
+### Font Awesome 5
++ https://fontawesome.com/docs/web/use-with/ember
 + ember install @fortawesome/ember-fontawesome
 + [ember-fontawesome](https://github.com/FortAwesome/ember-fontawesome)
 + https://fontawesome.com/v5/search?f=brands&m=free
