@@ -210,6 +210,15 @@ https://leanpub.com/ember-cli-101
 
 # Google
 + "Component Templates" site:rfcs.emberjs.com
++ BS4 site:www.w3schools.com
++ DateTimePicker site:www.npmjs.com
++ DateTimePicker site:alpacajs.org
+
+# The RFC ("request for comments")
++ https://github.com/emberjs/rfcs
+
+# HTML5 Boilerplate
++ https://github.com/h5bp/html5-boilerplate/
 
 # Blogs
 + http://yoember.com/
@@ -223,7 +232,7 @@ https://leanpub.com/ember-cli-101
 + [ember install ember-tooltips](https://github.com/sir-dunxalot/ember-tooltips)
 + https://sir-dunxalot.github.io/ember-tooltips/
 
-## Alternative of Alpaca => ???
+## Alternative of Alpaca => ember-form-builder
 + https://npms.io/search?q=ember-forms
 + https://emberobserver.com/categories/forms
 + https://emberobserver.com/addons/ember-form-builder
