@@ -42,6 +42,18 @@ npm install ember-cli-bootstrap-4
 ember install ember-cli-bootstrap-4
 ```
 
+### Bootstrap 4
+
+```
+"devDependencies": {
+  "bootstrap": "^4.6.1",
+  "sass": "^1.23.0",
+},
+"dependencies": {
+  "ember-cli-bootstrap-4": "^1.0.0",
+}
+```
+
 ## Ember.js Resources
 
 ### Discussion Forum
