@@ -2,7 +2,6 @@
 + Building a complex web application with Ember.js Octane
   + https://yoember.com/
   + https://github.com/zoltan-nz/library-app/
-  + https://github.com/gtechsltn/library-app/
 + Building Ambitious Web Applications with Ember.js
   + https://davidwalsh.name/ember-web-apps
 + A Step-by-Step Guide: Ember on Netlify
@@ -19,6 +18,7 @@
 + Learning Ember: The Easier Way
   + https://productive.io/engineering/learning-ember-easier-way/
 + https://learn.habilelabs.io/everything-you-need-to-know-about-ember-js-487ee9a686c2
++ https://maczniak.github.io/
 
 # Working with HTML, CSS, and JavaScript - Getting Started
 + https://guides.emberjs.com/release/getting-started/working-with-html-css-and-javascript/
