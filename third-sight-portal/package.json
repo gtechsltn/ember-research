@@ -32,9 +32,13 @@
     "@ember/optional-features": "^2.0.0",
     "@ember/string": "^3.1.1",
     "@ember/test-helpers": "^3.2.1",
+    "@fortawesome/ember-fontawesome": "^2.0.0",
+    "@fortawesome/free-brands-svg-icons": "^6.5.1",
+    "@fortawesome/free-regular-svg-icons": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
     "@glimmer/component": "^1.1.2",
     "@glimmer/tracking": "^1.1.2",
-    "bootstrap": "^4.6.2",
+    "bootstrap": "^4.6.1",
     "broccoli-asset-rev": "^3.0.0",
     "concurrently": "^8.2.2",
     "ember-auto-import": "^2.7.0",
@@ -69,6 +73,7 @@
     "qunit": "^2.20.0",
     "qunit-dom": "^2.0.0",
     "sass": "^1.69.7",
+    "strip-ansi": "^6.0.1",
     "stylelint": "^15.11.0",
     "stylelint-config-standard": "^34.0.0",
     "stylelint-prettier": "^4.1.0",
@@ -82,7 +87,13 @@
     "edition": "octane"
   },
   "dependencies": {
+    "@fortawesome/ember-fontawesome": "^2.0.0",
+    "@fortawesome/fontawesome-free": "^6.5.1",
+    "@fortawesome/free-brands-svg-icons": "^6.5.1",
+    "@fortawesome/free-regular-svg-icons": "^6.5.1",
+    "ember-cli-bootstrap-4": "^1.0.0",
     "ember-cli-sass": "^11.0.1",
-    "rsvp": "^4.8.5"
+    "npm": "^10.3.0",
+    "popper.js": "^1.16.1"
   }
 }

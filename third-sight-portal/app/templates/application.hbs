@@ -7,4 +7,63 @@
   <p>Email Management System</p>
 </div>
 
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12">
+      <p>
+        <FaIcon @icon="square" @prefix="far" />
+        <i class="fa fa-align-justify"></i>
+      </p>
+    </div>
+  </div>
+
+  <h3>Popover Example</h3>
+  <div class="row">
+    <div class="col-sm-12">
+      <TsPopover @multiple={{this.multiple}} @updateMultiple={{this.updateMultiple}} />
+    </div>
+  </div>
+
+  <form class="ts-form" method="POST" action="#">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="form-group">
+          <i class="fa fa-user-o"></i>
+          <input
+            id="email"
+            type="email"
+            class="form-control custom-input"
+            name="email"
+            value=""
+            placeholder="Email adress"
+            required
+            autofocus
+            style="border-radius: 30px;"
+          />
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-12">
+        <div class="form-group password">
+
+          <i class="fa fa-lock"></i>
+          <input
+            id="password"
+            type="password"
+            class="form-control custom-input"
+            name="password"
+            placeholder="Wachtwoord"
+            required
+            style="border-radius: 30px;"
+          />
+
+        </div>
+      </div>
+    </div>
+
+  </form>
+</div>
+
 {{outlet}}

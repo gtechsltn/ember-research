@@ -1,5 +1,8 @@
 /* Ember supports plain CSS out of the box. More info: https://cli.emberjs.com/release/advanced-use/stylesheets/ */
 
+@import "ember-cli-bootstrap-4/bootstrap";
+@import '~/../../../node_modules/@fortawesome/fontawesome-free/scss/fontawesome';
+
 .ts-welcome-header {
-    color: green;
+  color: green;
 }
