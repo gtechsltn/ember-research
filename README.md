@@ -19,6 +19,27 @@
 + Learning Ember: The Easier Way
   + https://productive.io/engineering/learning-ember-easier-way/
 
+# Ember-CLI
+
+```
+# Update Ember CLI projects
+npm install -g ember-cli-update
+ember-cli-update
+
+# Long Term Support (LTS) releases
+npm install --save-dev ember-source@~5.4.0
+
+# Install SASS
+npm install --save ember-cli-sass
+
+# Install jQuery 3
+npm install --save-dev jquery@^3.0
+ember install @ember/jquery
+
+# Install Bootstrap 4
+npm install --save-dev bootstrap@^4.0
+```
+
 ## Ember.js Resources
 
 ### Discussion Forum
