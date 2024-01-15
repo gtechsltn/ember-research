@@ -19,6 +19,7 @@
 + Learning Ember: The Easier Way
   + https://productive.io/engineering/learning-ember-easier-way/
 
+
 # Ember-CLI
 
 ```
@@ -134,3 +135,10 @@ https://emberigniter.com/
 
 ### Ember CLI 101
 https://leanpub.com/ember-cli-101
+
+# Google
++ "Component Templates" site:rfcs.emberjs.com
+
+# Blogs
++ http://yoember.com/
++ https://pzuraq.com/
