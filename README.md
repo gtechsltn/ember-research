@@ -64,7 +64,7 @@ ember install ember-cli-bootstrap-4
 }
 ```
 
-### Font Awesome 5
+### Font Awesome 6 Free
 + https://fontawesome.com/docs/web/use-with/ember
 + ember install @fortawesome/ember-fontawesome
 + [ember-fontawesome](https://github.com/FortAwesome/ember-fontawesome)
@@ -86,7 +86,6 @@ ember install ember-cli-bootstrap-4
   "@fortawesome/free-solid-svg-icons": "^6.5.1",
 }
 ```
-
  
 ## Ember.js Resources
 
@@ -110,6 +109,55 @@ https://www.emberobserver.com/
 + https://guides.emberjs.com/v2.14.0/tutorial/simple-component/
 + https://guides.emberjs.com/v5.4.0/components/
 + https://guides.emberjs.com/release/components/
++ Ember.js Octane vs Classic Cheat Sheet
+
+```
+# -gc stands for glimmer component
+ember generate component my-component -gc
+ember generate component my-component --component-class @glimmer/component
+
+# -cc stands for classic component
+ember generate component my-component -cc
+```
+
+### Ember.js Octane vs Classic Cheat Sheet
+https://ember-learn.github.io/ember-octane-vs-classic-cheat-sheet/
+
+### Glimmer Components
++ https://guides.emberjs.com/release/upgrading/current-edition/glimmer-components/
+  + didInsertElement
+  + willDestroyElement
+  + ...
++ https://github.com/emberjs/ember.js/issues/16301
+
+### Class Components
++ https://api.emberjs.com/ember/release/classes/component/
++ https://api.emberjs.com/ember/5.4/classes/Component
+
+### DOM Events
++ [addEventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
++ [DOM Events](https://dom.spec.whatwg.org/)
+  + window.addEventListener
+  + document.addEventListener(...)
+  + document.body.addEventListener(...)
+  + document.getElementById("x").dispatchEvent(ev);
+
+```
+my_element.addEventListener("click", function (e) {
+  console.log(this.className); // logs the className of my_element
+  console.log(e.currentTarget === this); // logs `true`
+});
+```
+
+```
+my_element.addEventListener("click", (e) => {
+  console.log(this.className); // WARNING: `this` is not `my_element`
+  console.log(e.currentTarget === this); // logs `false`
+});
+```
+
+### What's Ember Run Loop?
+https://api.emberjs.com/ember/5.4/functions/@ember%2Frunloop/bind
 
 ### Ember Learn
 https://emberjs.com/learn/
@@ -142,3 +190,11 @@ https://leanpub.com/ember-cli-101
 # Blogs
 + http://yoember.com/
 + https://pzuraq.com/
+
+# Alternative of
+
+## Bootstrap 4 popover => ember-tooltips
++ https://getbootstrap.com/docs/4.0/components/popovers/
++ https://www.w3schools.com/bootstrap4/bootstrap_popover.asp
++ [ember install ember-tooltips](https://github.com/sir-dunxalot/ember-tooltips)
++ https://sir-dunxalot.github.io/ember-tooltips/
