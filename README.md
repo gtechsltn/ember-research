@@ -43,6 +43,9 @@ ember install ember-cli-bootstrap-4
 ```
 
 ### Bootstrap 4
++ ember-cli-bootstrap-4
++ bootstrap, ember-cli-sass, sass
++ bootstrap@^4.6.1, ember-cli-sass@^10.0.0 and sass@^1.23.0
 
 ```
 "devDependencies": {
