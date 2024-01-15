@@ -19,40 +19,40 @@
 + Learning Ember: The Easier Way
   + https://productive.io/engineering/learning-ember-easier-way/
 
-# Ember.js Resources
+## Ember.js Resources
 
-Discussion Forum
+### Discussion Forum
 https://discuss.emberjs.com/
 
-Discord Community Chat
+### Discord Community Chat
 https://discord.com/invite/emberjs
 
-Ember CLI
+### Ember CLI
 https://cli.emberjs.com/release/
 
-Ember Addons
+### Ember Addons
 https://www.emberobserver.com/
 
-Guides Ember v2.9.0
+### Guides Ember v2.9.0
 https://guides.emberjs.com/v2.9.0/
 
-Ember Learn
+### Ember Learn
 https://emberjs.com/learn/
  
-Ember Guides
+### Ember Guides
 https://guides.emberjs.com
 
-Ember Screencasts
+### Ember Screencasts
 https://www.emberscreencasts.com/
 
-Yo Ember
+### Yo Ember (HAY HAY HAY)
 http://yoember.com/
 
-Ember Way
+### Ember Way
 https://emberway.io/
 
-Ember Igniter
+### Ember Igniter
 https://emberigniter.com/
 
-Ember CLI 101
+### Ember CLI 101
 https://leanpub.com/ember-cli-101
