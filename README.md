@@ -18,7 +18,28 @@
   + https://www.youtube.com/watch?v=yZTSFWpZe8I
 + Learning Ember: The Easier Way
   + https://productive.io/engineering/learning-ember-easier-way/
++ https://learn.habilelabs.io/everything-you-need-to-know-about-ember-js-487ee9a686c2
 
+# Working with HTML, CSS, and JavaScript - Getting Started
++ https://guides.emberjs.com/release/getting-started/working-with-html-css-and-javascript/
+
+# Where do 3rd party JS libraries (or Vendor)?
++ ember-auto-import
++ [3rd Party libraries with CDN](https://reintech.io/blog/best-practices-for-working-with-third-party-libraries-in-javascript)
++ [Best practices to select CDN for 3rd party library](https://blog.akansh.com/best-practices-to-select-cdn-for-third-party-libraries/)
++ https://guides.emberjs.com/v2.8.0/addons-and-dependencies/
++ https://stackoverflow.com/questions/36586043/how-can-i-bundle-javascript-files-under-vendor-in-an-ember-cli-project
++ https://stackoverflow.com/questions/30397093/where-do-3rd-party-js-libraries-go
++ https://stackoverflow.com/questions/44509802/ember-js-use-of-vendor-directory
++ https://stackoverflow.com/questions/26544578/how-to-use-third-party-npm-packages-with-ember-cli-app
+
+## Third Party Libraries
++ https://www.npmjs.com/package/ember-cli
++ https://www.npmjs.com/package/ember-data
++ https://www.npmjs.com/package/ember-source
++ https://cdnjs.com/libraries/jquery
++ https://cdnjs.com/libraries/bootstrap
++ https://cdnjs.com/libraries/twitter-bootstrap
 
 # Ember-CLI
 
@@ -196,8 +217,19 @@ https://leanpub.com/ember-cli-101
 
 # Alternative of
 
-## Bootstrap 4 popover => ember-tooltips
+## Alternative of Bootstrap 4 popover => ember-tooltips
 + https://getbootstrap.com/docs/4.0/components/popovers/
 + https://www.w3schools.com/bootstrap4/bootstrap_popover.asp
 + [ember install ember-tooltips](https://github.com/sir-dunxalot/ember-tooltips)
 + https://sir-dunxalot.github.io/ember-tooltips/
+
+## Alternative of Alpaca => ???
++ https://npms.io/search?q=ember-forms
++ https://emberobserver.com/categories/forms
++ https://emberobserver.com/addons/ember-form-builder
+
+# Source Code Samples
++ [Ember v3](https://github.com/muhammadnaumanshahid/simple-ember-application)
++ [Ember v4](https://github.com/zoltan-nz/library-app)
++ [Ember v5](https://github.com/gtechsltn/PowerShellAutomation)
++ [Ember v5.4](https://github.com/gtechsltn/ember-research/)
