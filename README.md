@@ -42,11 +42,9 @@ npm install ember-cli-bootstrap-4
 ember install ember-cli-bootstrap-4
 ```
 
-### Sass, Bootstrap 4, Font Aawesome 5
+### Bootstrap 4 and Sass
 + ember install ember-cli-bootstrap-4
-+ ember install @fortawesome/ember-fontawesome
 + [ember-cli-bootstrap-4](https://www.npmjs.com/package/ember-cli-bootstrap-4)
-+ [ember-fontawesome](https://github.com/FortAwesome/ember-fontawesome)
 + bootstrap, ember-cli-sass, sass
 + bootstrap@^4.6.1, ember-cli-sass@^10.0.0 and sass@^1.23.0
 + Glyphicons from Bootstrap 3 are not supported in Bootstrap 4  => Alternative of Glyphicons of Bootstrap 3
@@ -60,9 +58,34 @@ ember install ember-cli-bootstrap-4
 },
 "dependencies": {
   "ember-cli-bootstrap-4": "^1.0.0",
+  "ember-cli-sass": "^10.0.0",
+  "popper.js": "^1.16.1"
 }
 ```
 
+### Font Awesome 5 Ember component using SVG with JS
++ ember install @fortawesome/ember-fontawesome
++ [ember-fontawesome](https://github.com/FortAwesome/ember-fontawesome)
++ https://fontawesome.com/v5/search?f=brands&m=free
++ https://fontawesome.com/v5/search?s=regular&m=free
++ https://fontawesome.com/v5/search?s=solid&m=free
+
+```
+"devDependencies": {
+  "@fortawesome/ember-fontawesome": "^2.0.0",
+  "@fortawesome/free-brands-svg-icons": "^6.5.1",
+  "@fortawesome/free-regular-svg-icons": "^6.5.1",
+  "@fortawesome/free-solid-svg-icons": "^6.5.1",
+},
+"dependencies": {
+  "@fortawesome/ember-fontawesome": "^2.0.0",
+  "@fortawesome/free-brands-svg-icons": "^6.5.1",
+  "@fortawesome/free-regular-svg-icons": "^6.5.1",
+  "@fortawesome/free-solid-svg-icons": "^6.5.1",
+}
+```
+
+ 
 ## Ember.js Resources
 
 ### Discussion Forum
