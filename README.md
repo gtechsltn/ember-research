@@ -38,6 +38,8 @@ ember install @ember/jquery
 
 # Install Bootstrap 4
 npm install --save-dev bootstrap@^4.0
+npm install ember-cli-bootstrap-4
+ember install ember-cli-bootstrap-4
 ```
 
 ## Ember.js Resources
