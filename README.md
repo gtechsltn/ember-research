@@ -233,9 +233,17 @@ https://leanpub.com/ember-cli-101
 + https://sir-dunxalot.github.io/ember-tooltips/
 
 ## Alternative of Alpaca => ember-form-builder
++ https://github.com/gitana/alpaca
++ http://www.alpacajs.org/
 + https://npms.io/search?q=ember-forms
 + https://emberobserver.com/categories/forms
 + https://emberobserver.com/addons/ember-form-builder
++ https://github.com/luan/ember-formbuilder
++ https://github.com/DavyJonesLocker/ember-easy-form
++ https://fancyjs.com/
++ https://github.com/FancyJS/FancyForm
++ https://github.com/indexiatech/ember-forms
++ https://jqueryform.github.io/ => Free Desktop Apps
 
 # Source Code Samples
 + [Ember v3](https://github.com/muhammadnaumanshahid/simple-ember-application)
