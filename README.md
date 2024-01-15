@@ -42,10 +42,15 @@ npm install ember-cli-bootstrap-4
 ember install ember-cli-bootstrap-4
 ```
 
-### Bootstrap 4
-+ ember-cli-bootstrap-4
+### SASS, Bootstrap 4, Font Aawesome 5
++ ember install ember-cli-bootstrap-4
++ ember install ember-font-awesome
++ [ember-cli-bootstrap-4](https://www.npmjs.com/package/ember-cli-bootstrap-4)
 + bootstrap, ember-cli-sass, sass
 + bootstrap@^4.6.1, ember-cli-sass@^10.0.0 and sass@^1.23.0
++ Glyphicons from Bootstrap 3 are not supported in Bootstrap 4  => Alternative of Glyphicons of Bootstrap 3
+  + [Font Awesome](https://www.npmjs.com/package/ember-font-awesome)
+  + Google Material Design Icons
 
 ```
 "devDependencies": {
