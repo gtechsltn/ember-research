@@ -67,6 +67,8 @@ ember install ember-cli-bootstrap-4
 ### Font Awesome 5 Free
 + Font Awesome 6 (comming soon)](https://fontawesome.com/docs/web/use-with/ember)
 + [Font Awesome 5 Free](https://fontawesome.com/v5/docs/web/use-with/ember)
++ https://fontawesome.com/v5/docs/web/setup/use-package-managers
++ https://snyk.io/advisor/npm-package/@fortawesome/ember-fontawesome
 + ember install @fortawesome/ember-fontawesome
 + [ember-fontawesome](https://github.com/FortAwesome/ember-fontawesome)
 + https://fontawesome.com/v5/search?f=brands&m=free
